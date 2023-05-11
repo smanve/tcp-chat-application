@@ -1,6 +1,6 @@
 # tcp-chat-application
 
-Simple chat application build using network programming concepts in c. 
+Simple chat application build using network programming concepts in c, while studying Computer Networks @ Monash University
 
 Client-side
 <img width="406" alt="image" src="https://github.com/smanve/tcp-chat-application/assets/43281910/dee5d693-e8d4-441b-a93e-12f753683aae">
